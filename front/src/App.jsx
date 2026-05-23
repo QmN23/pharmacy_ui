@@ -3,7 +3,7 @@ import Home from './pages/Home';
 import AdminLogin from './pages/AdminLogin';
 import AdminPanel from './pages/AdminPanel';
 import MedicineDetail from './pages/MedicineDetail';
-import { useState, useEffect } from 'react'; // Добавили хуки
+import { useState, useEffect } from 'react'; 
 import './App.css';
 
 export default function App() {
